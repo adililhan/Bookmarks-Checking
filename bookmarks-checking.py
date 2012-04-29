@@ -31,7 +31,7 @@ else:
                data.write(i + "\n")
                data.close()
     else:
-        print "File not found."
+        sys.exit ("File not found.")
 
     if os.path.exists(filename + 'Matches.txt'):
         print "Please check that file: " + filename + 'Matches.txt'
