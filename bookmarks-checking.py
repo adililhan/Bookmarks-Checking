@@ -1,5 +1,6 @@
 #!/usr/biin/env python
 # -*- coding: utf-8 -*-
+__author__ = "Adil Ilhan"
 import re
 import urllib
 import sys
