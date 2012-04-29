@@ -1,0 +1,10 @@
+That code with checking your bookmarks link...
+
+The use:
+
+Export your bookmarks (HTML Format)...
+
+After write on command line: python bookmarks-checking.py bookmarks_name.html
+
+How to exporting bookmarks (Firefox): http://support.mozilla.org/en-US/kb/Exporting%20bookmarks%20to%20an%20HTML%20file
+How to exporting bookmarks (Chrome): http://support.google.com/bookmarks/bin/answer.py?hl=en&answer=175104
