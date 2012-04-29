@@ -1,4 +1,4 @@
-#!/usr/biin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 __author__ = "Adil Ilhan"
 import re
